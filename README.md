@@ -4,8 +4,6 @@
 
 An end-to-end data analytics project that explores retail customer shopping behavior using Python, SQL, and Power BI — covering everything from raw data cleaning to a final interactive dashboard and report.
 
-This project was built by following a guided tutorial (credit: Amlan Mohanty) as a hands-on way to practice the full analytics workflow, from EDA to BI dashboarding.
-
 ---
 
 ## Overview
