@@ -104,12 +104,6 @@ pip install pandas numpy matplotlib seaborn
 <img width="1398" height="817" alt="Screenshot 2026-06-17 164402" src="https://github.com/user-attachments/assets/6702449b-bcd1-49e4-8ec4-eca354776f77" />
 
 
-
-
-## Acknowledgements
-
-This project was completed as a guided learning exercise based on a tutorial by **Amlan Mohanty**, used to practice the end-to-end data analytics workflow.
-
 ## Author
 
 **Sathwik Kotian**
